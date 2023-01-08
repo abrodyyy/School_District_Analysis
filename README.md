@@ -18,10 +18,12 @@ Data Source: newstudentdata.csv
 ## Results
 
 School Type | Avg. Reading Score | Avg. Math Score | School Budget
+----------- | ------------------ | --------------- | -------------
 Charter	    | 72.45	             | 66.76           | $872,625.66
 Public	    | 72.28	             | 62.95           | $911,195.56
 
 School Name            | Student Count
+---------------------- | -------------
 Montgomery High School | 2038
 Green High School	   | 1961
 Dixon High School	   | 1583
@@ -39,6 +41,7 @@ Campbell High School   | 407
 Chang High School      | 171
 
 School Type | Grade | Avg. Reading Score | Avg. Math Score
+----------- | ----- | ------------------ | ---------------
 Charter     | 9     | 68.68	             | 70.08
 Charter     | 10    | 69.63 	         | 66.44
 Charter     | 11    | 80.60 	         | 68.02
