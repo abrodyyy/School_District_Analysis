@@ -15,7 +15,7 @@ _The deliverables can be found in the jupyter notebook xyz_
 
 ## Resources
 - Data Source: [new_full_student_data.csv](https://github.com/abrodyyy/School_District_Analysis/blob/main/Resources/new_full_student_data.csv)
-- Software: [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Jupyter Notebook 6.4.8] (https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
+- Software: [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Jupyter Notebook 6.4.8](https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
 
 
 ## Results
