@@ -4,17 +4,20 @@ We've been tasked with assisting the chief data scientist for a city school dist
 
 
 This new assignment consists of five technical analysis deliverables and a written report to deliver the results:
-Deliverable 1: Collect the student data into a DataFrame.
-Deliverable 2: Prepare a cleaned version of the DataFrame.
-Deliverable 3: Summarize key pieces of the data.
-Deliverable 4: Drill down into the data to analyze specific subsets.
-Deliverable 5: Compare and contrast the data through grouping and aggregation functions.
-Deliverable 6: A written analysis of your results (README.md).
+- Deliverable 1: Collect the student data into a DataFrame.
+- Deliverable 2: Prepare a cleaned version of the DataFrame.
+- Deliverable 3: Summarize key pieces of the data.
+- Deliverable 4: Drill down into the data to analyze specific subsets.
+- Deliverable 5: Compare and contrast the data through grouping and aggregation functions.
+- Deliverable 6: A written analysis of your results (README.md).
+
 _The deliverables can be found in the jupyter notebook xyz_
 
 ## Resources
-Data Source: newstudentdata.csv
-- Software: Python 3.9.12, Visual Studio Code, 1.70.2, Jupyter Notebook 6.4.8
+- Data Source: [new_full_student_data.csv](https://github.com/abrodyyy/School_District_Analysis/blob/main/Resources/new_full_student_data.csv)
+- Software: [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Jupyter Notebook 6.4.8] (https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
+
+
 ## Results
 
 School Type | Avg. Reading Score | Avg. Math Score | School Budget
