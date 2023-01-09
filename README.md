@@ -11,7 +11,7 @@ This new assignment consists of five technical analysis deliverables and a writt
 - Deliverable 5: Compare and contrast the data through grouping and aggregation functions.
 - Deliverable 6: A written analysis of your results (README.md).
 
-_The deliverables can be found in the jupyter notebook xyz_
+_The deliverables can be found in the [Jupyter Notebook - Student_Data_Challenge.ipynb](https://github.com/abrodyyy/School_District_Analysis/blob/main/Student_Data_Challenge.ipynb)_
 
 ## Resources
 - Data Source: [new_full_student_data.csv](https://github.com/abrodyyy/School_District_Analysis/blob/main/Resources/new_full_student_data.csv)
